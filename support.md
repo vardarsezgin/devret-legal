@@ -7,15 +7,15 @@ permalink: /support/
 
 Bir sorun mu yaşıyorsunuz ya da bir öneriniz mi var?
 
-**[Destek talebi oluşturun →](https://github.com/vardarsezgin/devret-legal/issues/new)**
+**E-posta: [vardarsezgin@hotmail.com](mailto:vardarsezgin@hotmail.com?subject=devret%20destek)**
 
-Talepler herkese açık görünür. **Telefon numarası, e-posta, bilet dosyası, kart veya kimlik bilgisi gibi kişisel bilgileri paylaşmayın.** Gerekirse sizinle uygulama üzerinden iletişime geçeriz.
+Mesajınıza @kullanıcı adınızı ve ilgili etkinliği ekleyin. **Bilet dosyası, kart, banka veya kimlik bilgisi göndermeyin.**
 
 ### Sık sorulanlar
 - **Hesabımı nasıl silerim?** Profil → Ayarlar → Hesabı sil.
 - **Ödemeyi nasıl yapacağım?** Şimdilik ödeme, teslim sırasında satıcıya elden nakit yapılır. Bileti ödemeden önce kontrol edin.
 - **İlanım neden "Reddedildi"?** Aynı bilet devret'te zaten satışta veya satılmışsa ilan reddedilir.
-- **Satıcı yanıt vermiyor.** İsteğinizi Biletlerim sekmesinden iptal edebilirsiniz; bilet yeniden satışa çıkar.
+- **Satıcı yanıt vermiyor.** Satıcının 24 saat içinde yanıtlamadığı istekler otomatik olarak iptal edilir. İsteğinizi Biletlerim sekmesinden kendiniz de iptal edebilirsiniz; bilet yeniden satışa çıkar.
 
 ---
 
@@ -23,12 +23,12 @@ Talepler herkese açık görünür. **Telefon numarası, e-posta, bilet dosyası
 
 Having a problem or have a suggestion?
 
-**[Open a support request →](https://github.com/vardarsezgin/devret-legal/issues/new)**
+**E-mail: [vardarsezgin@hotmail.com](mailto:vardarsezgin@hotmail.com?subject=devret%20support)**
 
-Requests are public. **Do not share personal information such as phone numbers, e-mail addresses, ticket files, card or ID details.** If needed, we will contact you through the app.
+Include your @username and the event. **Never send ticket files, card, bank or ID details.**
 
 ### FAQ
 - **How do I delete my account?** Profile → Settings → Delete account.
 - **How do I pay?** For now, you pay the seller in cash at the handover. Check the ticket before you pay.
 - **Why was my listing rejected?** A listing is rejected if the same ticket is already on sale or sold on devret.
-- **The seller isn't answering.** Cancel your request in My Tickets; the ticket goes back on sale.
+- **The seller isn't answering.** Requests the seller doesn't answer within 24 hours are cancelled automatically. You can also cancel yours in My Tickets; the ticket goes back on sale.

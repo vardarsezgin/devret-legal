@@ -5,9 +5,9 @@ permalink: /terms/
 
 # Kullanım Koşulları
 
-_Son güncelleme: 5 Ekim 2026_
+_Son güncelleme: 8 Ekim 2026_
 
-**devret** ("Uygulama"), etkinlik biletlerini artık kullanamayacak kişilerle bilet arayan kişileri buluşturan bir aracı platformdur. Uygulamayı kullanarak bu koşulları kabul etmiş olursunuz.
+**devret** ("Uygulama"), etkinlik biletlerini artık kullanamayacak kişilerle bilet arayan kişileri buluşturan bir aracı platformdur. Hesap oluştururken bu koşulları kabul edersiniz.
 
 ## 1. Hizmetin niteliği
 - devret biletlerin satıcısı veya organizatörü değildir. Bilet, satıcı ile alıcı arasında devredilir.
@@ -25,10 +25,11 @@ _Son güncelleme: 5 Ekim 2026_
 
 ## 4. Alıcının yükümlülükleri
 - Bilet isteği gönderdiğinizde, satıcı kabul ederse teslim için anlaşmaya varmayı taahhüt edersiniz.
+- Satıcının 24 saat içinde yanıtlamadığı istekler otomatik olarak iptal edilir. Satıcı, kabul ettiği bir siparişi teslimden önce iptal edebilir.
 - Bileti ödeme yapmadan önce kontrol etmeniz önerilir.
 
 ## 5. Ödemeler (geçici düzenleme)
-- Şu anda ödemeler, alıcı ile satıcı arasında teslim sırasında **elden nakit** olarak yapılmaktadır. devret bu ödemelere aracılık etmez, ödemeyi tutmaz ve iade sağlayamaz.
+- Şu anda ödemeler, alıcı ile satıcı arasında teslim sırasında **elden nakit** olarak yapılmaktadır. devret bu ödemelere aracılık etmez, ödemeyi tutmaz ve iade sağlayamaz. Satış, satıcı ile alıcı arasında doğrudan yapılır; devret bu satışın tarafı değildir.
 - Buluşmalarda kalabalık, güvenli yerleri tercih edin; kart veya banka bilgilerinizi paylaşmayın.
 - Uygulama içi kartla ödeme ve emanet sistemi eklendiğinde bu koşullar güncellenecektir.
 
@@ -48,15 +49,15 @@ Bu koşulların ihlali durumunda hesabınızı askıya alabilir veya kapatabilir
 Bu koşullar Türkiye Cumhuriyeti hukukuna tabidir. Tüketici işlemlerinde tüketici hakem heyetleri ve tüketici mahkemelerinin yetkisi saklıdır.
 
 ## 11. İletişim
-[Destek](../support/) sayfası üzerinden bize ulaşabilirsiniz.
+Sezgin Vardar — [vardarsezgin@hotmail.com](mailto:vardarsezgin@hotmail.com)
 
 ---
 
 # Terms of Use
 
-_Last updated: 5 October 2026_
+_Last updated: 8 October 2026_
 
-**devret** ("App") is an intermediary platform that connects people who can no longer use their event tickets with people looking for tickets. By using the App you agree to these terms.
+**devret** ("App") is an intermediary platform that connects people who can no longer use their event tickets with people looking for tickets. You accept these terms when you create an account.
 
 ## 1. The service
 - devret is neither the seller nor the organiser of tickets. Tickets are handed over between seller and buyer.
@@ -74,10 +75,11 @@ _Last updated: 5 October 2026_
 
 ## 4. Buyers
 - When you request a ticket and the seller accepts, you commit to arranging the handover.
+- Requests the seller doesn't answer within 24 hours are cancelled automatically. A seller may cancel an accepted order before the handover.
 - We recommend checking the ticket before you pay.
 
 ## 5. Payments (temporary arrangement)
-- For now, payments are made **in cash** between buyer and seller at the handover. devret does not process or hold these payments and cannot issue refunds.
+- For now, payments are made **in cash** between buyer and seller at the handover. devret does not process or hold these payments and cannot issue refunds. The sale takes place directly between seller and buyer; devret is not a party to it.
 - Meet in busy, safe places and never share card or bank details.
 - These terms will be updated when in-app card payments and escrow are added.
 
@@ -97,4 +99,4 @@ We may suspend or close accounts that breach these terms. You can delete your ac
 These terms are governed by the laws of the Republic of Türkiye. Consumer arbitration committees and consumer courts retain jurisdiction for consumer matters.
 
 ## 11. Contact
-Reach us via the [Support](../support/) page.
+Sezgin Vardar — [vardarsezgin@hotmail.com](mailto:vardarsezgin@hotmail.com)
