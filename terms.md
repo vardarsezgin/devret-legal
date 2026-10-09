@@ -5,7 +5,7 @@ permalink: /terms/
 
 # Kullanım Koşulları
 
-_Son güncelleme: 8 Ekim 2026_
+_Son güncelleme: 9 Ekim 2026_
 
 **devret** ("Uygulama"), etkinlik biletlerini artık kullanamayacak kişilerle bilet arayan kişileri buluşturan bir aracı platformdur. Hesap oluştururken bu koşulları kabul edersiniz.
 
@@ -21,7 +21,10 @@ _Son güncelleme: 8 Ekim 2026_
 ## 3. Satıcının yükümlülükleri
 - Yalnızca size ait olan, geçerli ve başka bir yerde satılmamış ya da satışa konmamış biletleri listeleyebilirsiniz.
 - Yüklediğiniz her bilet, aynı biletin birden fazla satılmasını önlemek için kontrol edilir. Kopya, sahte veya geçersiz bilet satışı yasaktır; hesabın kapatılmasına ve yasal işlem başlatılmasına yol açabilir.
-- Bilet bilgilerini (tür, koltuk, fiyat) doğru girmelisiniz.
+- Bilet bilgilerini (tür, koltuk, fiyat) doğru girmelisiniz. Biletin üzerinde yazan fiyatı girmek zorunludur.
+- **Fiyat sınırı:** devret, gidemediğiniz bileti devretmek içindir; kâr amaçlı satış için değildir. Satış fiyatı, biletin üzerindeki fiyatın en fazla %20 fazlası olabilir.
+- **Devredilemez biletler:** Organizatörün devredilemez olarak belirlediği biletler satılamaz.
+- **Spor müsabakaları:** Spor müsabakalarına ait biletler (6222 sayılı Kanun) devret'te satılamaz.
 
 ## 4. Alıcının yükümlülükleri
 - Bilet isteği gönderdiğinizde, satıcı kabul ederse teslim için anlaşmaya varmayı taahhüt edersiniz.
@@ -55,7 +58,7 @@ Sezgin Vardar — [vardarsezgin@hotmail.com](mailto:vardarsezgin@hotmail.com)
 
 # Terms of Use
 
-_Last updated: 8 October 2026_
+_Last updated: 9 October 2026_
 
 **devret** ("App") is an intermediary platform that connects people who can no longer use their event tickets with people looking for tickets. You accept these terms when you create an account.
 
@@ -71,7 +74,10 @@ _Last updated: 8 October 2026_
 ## 3. Sellers
 - You may only list tickets that belong to you, are valid and have not been sold or listed elsewhere.
 - Every uploaded ticket is checked to prevent the same ticket from being sold twice. Selling copied, fake or invalid tickets is prohibited and may lead to account closure and legal action.
-- Ticket details (type, seat, price) must be accurate.
+- Ticket details (type, seat, price) must be accurate. Entering the price printed on the ticket is required.
+- **Price cap:** devret is for passing on a ticket you can't use, not for profit. The asking price may be at most 20% above the printed price.
+- **Non-transferable tickets:** Tickets the organiser marks as non-transferable may not be listed.
+- **Sports events:** Tickets for sports events (Turkish Law No. 6222) may not be sold on devret.
 
 ## 4. Buyers
 - When you request a ticket and the seller accepts, you commit to arranging the handover.
